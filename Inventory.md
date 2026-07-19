@@ -1,3 +1,5 @@
-# Inventory Tracking 
+# Inventory Tracking
 
-Initial Inventory Record
+1. Laptop
+2. Desktop
+3. Project Documents

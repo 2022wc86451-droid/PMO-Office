@@ -1,0 +1,4 @@
+DevOps Project Plan
+Task 1 - Repository Creation
+Task 2 - Inventory Management
+Task 3 - Git Synchronization
